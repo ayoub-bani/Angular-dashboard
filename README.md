@@ -1,20 +1,21 @@
 # Angular Dashboard 
 
-![oops](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/API.PNG)
+> Liste des Journalistes page
+
+![API page](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/Journalistes.PNG)
+
+> Chef de Rédaction page
+
+![API page](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/Chef-de-Redaction.PNG)
+
+> API page
+
+![API page](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/API.PNG)
 
 
-**Angular Dashboard** 
-Material Dashboard uses a framework built by our friend [Federico - Bootstrap Material Design](http://fezvrasta.github.io/bootstrap-material-design/), who did an amazing job creating the backbone for the material effects, animations, ripples and transitions. Big thanks to his team for the effort and forward thinking they put into it.
+> Publicité page
 
-Special thanks go to:
-[Robert McIntosh](https://github.com/mouse0270/bootstrap-notify) for the notification system.
-[Chartist](https://gionkunz.github.io/chartist-js/) for the wonderful charts.
-We are very excited to share this dashboard with you and we look forward to hearing your feedback!
-
-You can find the Github Repo here.
-
-
-
+![API page](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/Publicite.PNG)
 
 
 
