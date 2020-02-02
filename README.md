@@ -1,6 +1,6 @@
 # Angular Dashboard 
 
-![alt text](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/API.png)
+![oops](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/API.PNG)
 
 
 **Angular Dashboard** 
