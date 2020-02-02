@@ -1,4 +1,4 @@
-# Angular Dashboard 
+# Angular 8 Dashboard and Bootstrap 4
 
 > Liste des Journalistes page
 
