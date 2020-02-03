@@ -2,7 +2,7 @@
 
 > Liste des Journalistes page
 
-![API page](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/Journalistes.PNG)
+![API page](https://github.com/ayoub-bani/Angular-dashboard/blob/master/screen/iMac-psd-1.png)
 
 > Chef de Rédaction page
 
